@@ -40,3 +40,14 @@ Use [Clarinet](https://docs.stacks.co/docs/clarity/clarinet/overview/) to test t
 
 ```bash
 clarinet test
+clarinet deploy
+
+---
+
+### 📜 Project Description (for GitHub repo)
+
+> **DecentraCert** is a smart contract on the Stacks blockchain that enables trusted institutions to issue verifiable and immutable certificates. With support for revocation and public verification, it provides a decentralized alternative to traditional credential verification systems.
+
+---
+
+
